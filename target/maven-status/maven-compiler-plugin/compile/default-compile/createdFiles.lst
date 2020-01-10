@@ -1,0 +1,4 @@
+com\jr\cloud\entity\User.class
+com\jr\cloud\repository\UserRepository.class
+com\jr\cloud\MicroserviceSimpleProviderUserApplication.class
+com\jr\cloud\controller\UserController.class
